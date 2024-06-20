@@ -31,7 +31,6 @@
 
 ## 反馈问题
 - QQ群：[点击加入](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=mI65XVylZJZhVnMT4cw_o5OWQTL-1mkd&authKey=F4vuxWOpWgbJNoiyqQammCbaWyL4zuaocaTZs2rz4iaeODxtiLsGu79vPgy%2FwzL7&noverify=0&group_code=873654655)
-- Telegram : [点击加入](https://t.me/+WbEK_suGxG9mZGM1)
 - 在issues中反馈，如果为BUG反馈，请附带Xposed模块日志信息
 
 ## 致谢
