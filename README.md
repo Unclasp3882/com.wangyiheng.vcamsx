@@ -2,16 +2,18 @@
 - 基于Xposed的虚拟摄像头
 # 请勿用于任何非法用途，所有后果自负！！
 # 无人直播交流QQ群（仅可交流无人直播）：[点击加入](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BabJDep1FE-8XnN7LmMnc1ClF7DQmRTf&authKey=d2kwinRCSg10MbJ%2BO%2FgwcIkgivePn4K1pr0C4yo5eDDQ3A1wTR5nutWc4A3%2BiZt4&noverify=0&group_code=853735619)
+# 如需购买直播软件，请前往 https://vcamx.com 进行购买
 ## 使用演示
 - https://fastly.jsdelivr.net/gh/iiheng/TuChuang@main/1700961311425EasyGIF-1700961287297.gif
 ## 开发计划
-- [ ] 支持rtmp传输直播,提高稳定性
+- [x] 支持rtmp传输直播,提高稳定性
 - [ ] 支持视频提前选择，自定义播放顺序
 ## 开发环境
 - Android SDK 34
 - Xposed 82
 - xiaomi 9 MIUI 11.0.3
 - xiaomi 8 MIUI 11.0.3
+- Redim K40 MUI 14.0.7
 - 酷比魔方50pro MIUI 14.0.5
 - Lsposed lastest
 ## 使用方法
@@ -30,7 +32,6 @@
 5. 硬解码流畅于软解码,请根据你的手机型号来判断是否支持硬解码，软解码的适配性较高，视频基本都支持播放
 
 ## 反馈问题
-- QQ群：[点击加入](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=mI65XVylZJZhVnMT4cw_o5OWQTL-1mkd&authKey=F4vuxWOpWgbJNoiyqQammCbaWyL4zuaocaTZs2rz4iaeODxtiLsGu79vPgy%2FwzL7&noverify=0&group_code=873654655)
 - 在issues中反馈，如果为BUG反馈，请附带Xposed模块日志信息
 
 ## 致谢
